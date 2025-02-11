@@ -1,4 +1,4 @@
-# Machine_Learning_Regression_Model
+# ML Regression Model - Draw a Logo
 **TOOLS**
 - Tensorboard: https://pytorch.org/docs/stable/tensorboard.html
 - Pytorch
