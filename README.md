@@ -1,4 +1,4 @@
-# ML Regression Model - Draw a Logo
+# Draw Logo - ML Regression Model
 **TOOLS**
 - Tensorboard: https://pytorch.org/docs/stable/tensorboard.html
 - Pytorch
@@ -27,5 +27,6 @@
 <img width="180" alt="Pytorch_Logo_1000" src="https://github.com/user-attachments/assets/9184f7d7-5353-4645-a1ed-d3d173638a58" />
 
 <br><br>
+**Houdini Snippets**
+<img width="1916" alt="input_a input_b target" src="https://github.com/user-attachments/assets/d1a1c3f0-c8a9-4aa0-b48b-47500dfe017d" />
 <img width="1919" alt="ONNX_data" src="https://github.com/user-attachments/assets/57bb4817-74e6-4ce4-802f-5d9a24d2ec1c" />
-<img width="1916" alt="image" src="https://github.com/user-attachments/assets/d1a1c3f0-c8a9-4aa0-b48b-47500dfe017d" />
